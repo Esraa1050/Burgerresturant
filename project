@@ -1,0 +1,16 @@
+run:
+please press 1 for normal burger sandwich 
+ 2 for healthy sandwich 
+ 3 for deluxe sandwich
+2
+please enter the type of meat (beef) or (chicken)
+chicken
+for extra cheese press true 
+ no extra cheese plz press false
+true
+for extra tomato press true 
+ no extra tomato plz press false
+true
+you ordered  HealthyBurger	 the meat is chicken	 the bread is brown with extra cheese with extra tomato
+the total price is  L.E 60
+BUILD SUCCESSFUL (total time: 1 minute 27 seconds)
